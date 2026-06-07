@@ -27,7 +27,7 @@ Tab Network cho thấy toàn bộ hoạt động mạng của trang web:
 - Headers (request/response)  
 - Size dữ liệu  
 - Method (GET, POST…)  
-**Ảnh chụp trang web:** ![test](screenshots/screenshot.png)
+**Ảnh chụp trang web:** ![test](images/screenshot.png)
 
 Câu A2 (5đ) — Semantic HTML  
 **Các lỗi semantic (ít nhất 4 lỗi)**
